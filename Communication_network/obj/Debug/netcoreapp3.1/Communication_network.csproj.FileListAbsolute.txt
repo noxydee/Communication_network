@@ -1,0 +1,15 @@
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\Communication_network.exe
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\Communication_network.deps.json
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\Communication_network.runtimeconfig.json
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\Communication_network.runtimeconfig.dev.json
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\Communication_network.dll
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\Communication_network.pdb
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.csprojAssemblyReference.cache
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.AssemblyInfoInputs.cache
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.AssemblyInfo.cs
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.csproj.CoreCompileInputs.cache
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.dll
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.pdb
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.genruntimeconfig.cache
+C:\Users\tomek\source\repos\Communication_network\Communication_network\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\tomek\source\repos\Communication_network\Communication_network\obj\Debug\netcoreapp3.1\Communication_network.csproj.CopyComplete
