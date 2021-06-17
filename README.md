@@ -1,2 +1,4 @@
 # Communication_network
- Project for ASD(AVL TREE/GRAPH)
+ Project for ASD (Algorithms and data structures)(AVL TREE/GRAPH)
+ 
+ 
